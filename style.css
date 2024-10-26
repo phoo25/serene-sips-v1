@@ -17,6 +17,9 @@ header {
   text-align: center;
   padding: 50px;
   background-image: url(images/6wau90ly.bmp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
 }
 header h1 {
   font-family: "Playfair Display SC", serif;
